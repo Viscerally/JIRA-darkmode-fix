@@ -133,7 +133,8 @@ background: #bdb76b36;}
 #ktm-application-126166 > gadget-view > div > div.ktm-gadgets-view-header.ng-binding.ng-scope {
 background:black;}
 .ktm-gadgets-view-wrapper .ktm-gadgets-view-header
-{background: black !important;}```
+{background: black !important;}
+```
 
 Next, paste the code into custom CSS field and hit "Save"
 
