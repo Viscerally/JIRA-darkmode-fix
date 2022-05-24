@@ -3,6 +3,8 @@ This repo contains custom CSS for EA NHL Jira that fixes readiblility issues wit
 
 The steps to enable the fix are quite easy.
 
+NOTE: *If you are updating the CSS remember to delete the old code before pasting in the new one below*
+
 First, open the darkmode settings by clicking on your profile and selecting "DarkTheme Settings"
 
 Next, copy the code below into your clipboard:
