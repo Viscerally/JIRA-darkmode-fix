@@ -16,6 +16,10 @@ Next, copy the code below into your clipboard:
      .qrf-rich-views {
     background-color: #3e147a3b !important;
  }
+#content > div > div > div > div.aui-page-panel > div > form.aui.ng-pristine.ng-valid.ng-valid-invalid.ng-valid-required > ng-include > div > div.ktm-input-field.ktm-testscript-steps.ng-scope.ktm-grid-view > div > div > div.ktm-testscript-step-index {
+background-color: darkcyan;}
+#content > div > div > div > div.aui-page-panel > div > form.aui.ng-pristine.ng-valid.ng-valid-invalid.ng-valid-required > ng-include > div > div.ktm-input-field.ktm-testscript-steps.ng-scope.ktm-grid-view > div > div > div.ktm-testscript-step-handle {
+background-color: darkcyan;}
 #ktm-reports-chart-109 {
 background: beige;
 }
@@ -215,6 +219,16 @@ background: beige;
 #ktm-application-129918 > gadget-view {
 background: beige;
 }
+#content > div > div > div > div.aui-page-panel > div > form.aui.ng-pristine.ng-valid.ng-valid-invalid.ng-valid-required > ng-include > div > div.ktm-input-field.ktm-testscript-steps.ng-scope.ktm-grid-view > div > div > div.ktm-testscript-step-data-and-custom-fields {
+background-color: darkcyan;
+}
+#content > div > div > div > div.aui-page-panel > div > form.aui.ng-pristine.ng-valid.ng-valid-invalid.ng-valid-required > ng-include > div > div.ktm-input-field.ktm-testscript-steps.ng-scope.ktm-grid-view > div > div > div.ktm-testscript-step-data-and-custom-fields > div.ktm-testscript-step-data {
+background-color: darkcyan;
+}
+#content > div > div > div > div.aui-page-panel > div > form.aui.ng-pristine.ng-valid.ng-valid-invalid.ng-valid-required > ng-include > div > div.ktm-input-field.ktm-testscript-steps.ng-scope.ktm-grid-view > div > div > div.ktm-testscript-step-data-and-custom-fields > ul > li > custom-field-input > div {
+background-color: darkcyan;
+}
+
 ```
 
 Next, paste the code into custom CSS field and hit "Save"
