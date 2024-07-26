@@ -1,5 +1,5 @@
 # JIRA-darkmode-fix
-This repo contains custom CSS for EA NHL Jira that fixes readiblility issues with the default darkmode
+This repo contains custom CSS for EA FB Jira that fixes readiblility issues with the default darkmode
 
 The steps to enable the fix are quite easy.
 
